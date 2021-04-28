@@ -1,0 +1,22 @@
+.title {
+    margin: auto;
+    width: 100%;
+}
+
+.title_img img{ 
+    width: 100%;
+    height: auto;
+    opacity: 0.5;
+}
+
+.title_content {
+    position: absolute;
+    top: 15%;
+    left: 15%;
+    font-size: 70px;
+}
+
+.title_content h1 {
+    font-size: 70px;
+    color: black;
+}
