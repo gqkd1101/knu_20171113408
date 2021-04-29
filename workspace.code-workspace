@@ -7,5 +7,7 @@
 			"path": "../../../Downloads/equipo-main"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "knu_20171113408"
+	}
 }
